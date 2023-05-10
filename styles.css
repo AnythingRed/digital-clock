@@ -5,9 +5,6 @@ body {
    justify-content: center;
    align-items: center;
    height: 100vh;
-   /* I want to change the background image to change with the time. so sunrise, morning, noon, afternoon, sunset, night */
-   background: url('bg.jpg');
-   background-size: cover;
    font-family: Arial, Helvetica, sans-serif;
    overflow: hidden;
 }
